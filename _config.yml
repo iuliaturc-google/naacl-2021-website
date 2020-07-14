@@ -281,3 +281,5 @@ defaults:
       share: false
       related: false
       sidebar: false
+
+theme: jekyll-theme-slate
